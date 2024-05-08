@@ -1,0 +1,7 @@
+theme: minima
+title: "Learn GitHub Pages"
+author: "Douglas Obara"
+description: |
+  This is a multiline description.
+  You can provide additional details here.
+  Make sure to indent properly in YAML.
